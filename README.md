@@ -7,6 +7,6 @@ Built this project while I was learning the fundamentals of HTML, CSS and JavaSc
 Screenshots
 <br>
 <br>
-![image1](https://user-images.githubusercontent.com/28698673/217025683-22db830a-b6b7-4920-a142-afea37c9b136.png)
+![img1](https://user-images.githubusercontent.com/28698673/217026389-ef335815-6efe-46a1-98db-661c22cc19d3.png)
 <br>
-![image2](https://user-images.githubusercontent.com/28698673/217025689-dc25a698-2e9a-4f13-9ab6-78793b60b279.png)
+![img2](https://user-images.githubusercontent.com/28698673/217026403-b5902978-38fd-495f-8572-3a2a05d39c0f.png)
